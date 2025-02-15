@@ -1,3 +1,6 @@
 [submodule "CREAR-BORRAR-TAREA"]
 	path = CREAR-BORRAR-TAREA
 	url = git@github.com:IvBanzaga/MiPrimeraApp.git
+[submodule "CALCULADORA"]
+	path = CALCULADORA
+	url = git@github.com:IvBanzaga/MiCalculadora.git
