@@ -4,3 +4,6 @@
 [submodule "CALCULADORA"]
 	path = CALCULADORA
 	url = git@github.com:IvBanzaga/MiCalculadora.git
+[submodule "CALCULADORA-EN-KOTLIN"]
+	path = CALCULADORA-EN-KOTLIN
+	url = https://github.com/IvBanzaga/MiCalculadora
