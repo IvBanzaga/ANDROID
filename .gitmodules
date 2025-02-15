@@ -7,3 +7,6 @@
 [submodule "CALCULADORA-EN-KOTLIN"]
 	path = CALCULADORA-EN-KOTLIN
 	url = https://github.com/IvBanzaga/MiCalculadora
+[submodule "SUMA-DE-NUMEROS"]
+	path = SUMA-DE-NUMEROS
+	url = https://github.com/IvBanzaga/SUMA
