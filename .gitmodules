@@ -28,3 +28,6 @@
 [submodule "IMAGEN-BUTTON"]
 	path = IMAGEN-BUTTON
 	url = https://github.com/IvBanzaga/ImagenButton
+[submodule "EDIT-TEXT"]
+	path = EDIT-TEXT
+	url = https://github.com/IvBanzaga/ControEditText
