@@ -37,3 +37,6 @@
 [submodule "ENTRE-DOS-ANTIVITY"]
 	path = ENTRE-DOS-ANTIVITY
 	url = https://github.com/IvBanzaga/TransfereciaDatosEntreActivitys
+[submodule "NAVEGAR-EN-APLICACION"]
+	path = NAVEGAR-EN-APLICACION
+	url = https://github.com/IvBanzaga/WebView
