@@ -13,3 +13,6 @@
 [submodule "BUTTON-RADIO-CALCULADORA"]
 	path = BUTTON-RADIO-CALCULADORA
 	url = https://github.com/IvBanzaga/ButtonRadioCalcular
+[submodule "BUTTON-CHECK-CALCULADORA"]
+	path = BUTTON-CHECK-CALCULADORA
+	url = https://github.com/IvBanzaga/ButtonCheckCalcular
