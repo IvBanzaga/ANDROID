@@ -43,3 +43,6 @@
 [submodule "FIBONACCI"]
 	path = FIBONACCI
 	url = https://github.com/IvBanzaga/TablaFibonacci
+[submodule "MULTI-CLASS"]
+	path = MULTI-CLASS
+	url = https://github.com/IvBanzaga/MultiClassExample
