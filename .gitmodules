@@ -31,3 +31,6 @@
 [submodule "EDIT-TEXT"]
 	path = EDIT-TEXT
 	url = https://github.com/IvBanzaga/ControEditText
+[submodule "PASEANDO-ENTRE-ACTIVITY"]
+	path = PASEANDO-ENTRE-ACTIVITY
+	url = https://github.com/IvBanzaga/DosActivity
