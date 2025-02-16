@@ -22,3 +22,6 @@
 [submodule "LIST-VIEW"]
 	path = LIST-VIEW
 	url = https://github.com/IvBanzaga/ListView
+[submodule "NOTA-MEDIA"]
+	path = NOTA-MEDIA
+	url = https://github.com/IvBanzaga/Android_Media_Alumno
