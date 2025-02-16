@@ -19,3 +19,6 @@
 [submodule "SPINNER"]
 	path = SPINNER
 	url = https://github.com/IvBanzaga/ControlSpinner
+[submodule "LIST-VIEW"]
+	path = LIST-VIEW
+	url = https://github.com/IvBanzaga/ListView
