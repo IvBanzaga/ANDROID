@@ -34,3 +34,6 @@
 [submodule "PASEANDO-ENTRE-ACTIVITY"]
 	path = PASEANDO-ENTRE-ACTIVITY
 	url = https://github.com/IvBanzaga/DosActivity
+[submodule "ENTRE-DOS-ANTIVITY"]
+	path = ENTRE-DOS-ANTIVITY
+	url = https://github.com/IvBanzaga/TransfereciaDatosEntreActivitys
