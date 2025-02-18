@@ -46,3 +46,6 @@
 [submodule "MULTI-CLASS"]
 	path = MULTI-CLASS
 	url = https://github.com/IvBanzaga/MultiClassExample
+[submodule "REGISTRO-USUARIO"]
+	path = REGISTRO-USUARIO
+	url = https://github.com/IvBanzaga/RegistroUsuario
