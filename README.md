@@ -1,31 +1,25 @@
-<h1>Android</h1>
-<p>Practicando aplicaciones Android</p>
+# Android
 
-<table>
-  <thead>
-    <tr>
-      <th>Proyecto</th>
-      <th>Vista Previa</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/IvBanzaga/RegistroUsuario/tree/aa4274e0736665c1530b5957ab7c385309a0cfb4" target="_blank">REGISTRO DE USUARIO</a></td>
-      <td><a href="https://github.com/IvBanzaga/RegistroUsuario/tree/aa4274e0736665c1530b5957ab7c385309a0cfb4" target="_blank">
-        <img src="https://github.com/IvBanzaga/RegistroUsuario/raw/master/img/captura.png" width="50%"/>
-      </a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/IvBanzaga/ButtonCheckCalcular/tree/18210e1eb0f6df19ad221e16d773545c2fdc18e9" target="_blank">BUTTON CHECK CALCULADORA</a></td>
-      <td><a href="https://github.com/IvBanzaga/ButtonCheckCalcular/tree/18210e1eb0f6df19ad221e16d773545c2fdc18e9" target="_blank">
-        <img src="https://github.com/IvBanzaga/ButtonCheckCalcular/raw/master/img/captura.png" width="50%"/>
-      </a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/IvBanzaga/ButtonRadioCalcular/tree/daf8aa49f05baa5d2913349e51707c0a11addc70" target="_blank">BUTTON RADIO CALCULADORA</a></td>
-      <td><a href="https://github.com/IvBanzaga/ButtonRadioCalcular/tree/daf8aa49f05baa5d2913349e51707c0a11addc70" target="_blank">
-        <img src="https://github.com/IvBanzaga/ButtonRadioCalcular/blob/master/img/captura.png" width="50%"/>
-      </a></td>
-    </tr>
-  </tbody>
-</table>
+Practicando aplicaciones Android
+
+</br>
+</br>
+
+| Proyecto                                                                                                                                   | Vista Previa                                                                                                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [REGISTRO DE USUARIO](https://github.com/IvBanzaga/RegistroUsuario/tree/aa4274e0736665c1530b5957ab7c385309a0cfb4)                          | <a href="https://github.com/IvBanzaga/RegistroUsuario/tree/aa4274e0736665c1530b5957ab7c385309a0cfb" target="_blank"><img src="https://github.com/IvBanzaga/RegistroUsuario/raw/master/img/captura.png" width="50%"/></a>                                   |
+| [BUTTON CHECK CALCULADORA](https://github.com/IvBanzaga/ButtonCheckCalcular/tree/18210e1eb0f6df19ad221e16d773545c2fdc18e9)                 | <a href="https://github.com/IvBanzaga/ButtonCheckCalcular/tree/18210e1eb0f6df19ad221e16d773545c2fdc18e9" target="_blank"><img src="https://github.com/IvBanzaga/ButtonCheckCalcular/raw/master/img/captura.png" width="50%"/></a>                          |
+| [BUTTON RADIO CALCULADORA](https://github.com/IvBanzaga/ButtonRadioCalcular/tree/daf8aa49f05baa5d2913349e51707c0a11addc70)                 | <a href="https://github.com/IvBanzaga/ButtonRadioCalcular/tree/daf8aa49f05baa5d2913349e51707c0a11addc70" target="_blank"><img src="https://github.com/IvBanzaga/ButtonRadioCalcular/blob/master/img/captura.png" width="50%"/></a>                         |
+| [CALCULADORA EN KOTLIN](https://github.com/IvBanzaga/MiCalculadora/tree/e2b52f47c8a85342fd86506af94f9a969d44af32)                          | <a href="https://github.com/IvBanzaga/MiCalculadora/tree/e2b52f47c8a85342fd86506af94f9a969d44af32" target="_blank"><img src="https://github.com/IvBanzaga/MICalculadora/raw/main/img/captura.png" width="50%"/></a>                                        |
+| [CREAR Y BORRAR TAREAS EN KOTLIN](https://github.com/IvBanzaga/CREAR-BORRAR-TAREA/tree/51cd8ea054da01b77389ed740d61ecce3eaa7d55)           | <a href="https://github.com/IvBanzaga/CREAR-BORRAR-TAREA/tree/51cd8ea054da01b77389ed740d61ecce3eaa7d55" target="_blank"><img src="https://github.com/IvBanzaga/CREAR-BORRAR-TAREA/raw/master/img/captura.png" width="50%"/></a>                            |
+| [EDIT TEXT](https://github.com/IvBanzaga/ControEditText/tree/5545a0e1aeaf8460d5a907b57043030ebb61f8f0)                                     | <a href="https://github.com/IvBanzaga/ControEditText/tree/5545a0e1aeaf8460d5a907b57043030ebb61f8f0" target="_blank"><img src="https://github.com/IvBanzaga/ControEditText/raw/main/img/captura.png" width="50%"/></a>                                      |
+| [PASEANDO ENTRE DOS ACTIVITYS](https://github.com/IvBanzaga/TransfereciaDatosEntreActivitys/tree/fc30a00263515d4a700b50cbc9f880f655ef4116) | <a href="https://github.com/IvBanzaga/TransfereciaDatosEntreActivitys/tree/fc30a00263515d4a700b50cbc9f880f655ef4116" target="_blank"><img src="https://github.com/IvBanzaga/TransfereciaDatosEntreActivitys/raw/master/img/captura2.png" width="50%"/></a> |
+| [TABLA FIBONACCI](https://github.com/IvBanzaga/TablaFibonacci/tree/495742545741711950a03185ca5f36fef9060bd3)                               | <a href="https://github.com/IvBanzaga/TablaFibonacci/tree/495742545741711950a03185ca5f36fef9060bd3" target="_blank"><img src="https://github.com/IvBanzaga/TablaFibonacci/raw/master/img/captura.png" width="50%"/></a>                                    |
+| [IMAGEN BUTTON](https://github.com/IvBanzaga/ImagenButton/tree/74fed37b07f0802d3da0d8195761c38b8e21e43e)                                   | <a href="https://github.com/IvBanzaga/ImagenButton/tree/74fed37b07f0802d3da0d8195761c38b8e21e43e" target="_blank"><img src="https://github.com/IvBanzaga/ImagenButton/raw/master/img/captura.png" width="50%"/></a>                                        |
+| [LIST VIEW](https://github.com/IvBanzaga/ListView/tree/d1ce9cff65f8e9d93f730dfb42049f85e1b6ee0b)                                           | <a href="https://github.com/IvBanzaga/ListView/tree/d1ce9cff65f8e9d93f730dfb42049f85e1b6ee0b" target="_blank"><img src="https://github.com/IvBanzaga/ListView/raw/master/img/captura.png" width="50%"/></a>                                                |
+| [MULTI CLASS](https://github.com/IvBanzaga/MultiClassExample/tree/0c1ce320beef581448c948be179fd4b1d2283f6d)                                | <a href="https://github.com/IvBanzaga/MultiClassExample/tree/0c1ce320beef581448c948be179fd4b1d2283f6d" target="_blank"><img src="https://github.com/IvBanzaga/MultiClassExample/raw/main/img/captura2.png" width="50%"/></a>                               |
+| [NAVEGACION](https://github.com/IvBanzaga/WebView/tree/b4166b8942a1b0a0d3a811f11c6fe386923e4d15)                                           | <a href="https://github.com/IvBanzaga/WebView/tree/b4166b8942a1b0a0d3a811f11c6fe386923e4d15" target="_blank"><img src="https://github.com/IvBanzaga/WebView/raw/master/img/captura.png" width="50%"/></a>                                                  |
+| [NOTA MEDIA](https://github.com/IvBanzaga/Android_Media_Alumno/tree/cc3c42c00c6dbf622a033da2354d8b21cf7228e4)                              | <a href="https://github.com/IvBanzaga/Android_Media_Alumno/tree/cc3c42c00c6dbf622a033da2354d8b21cf7228e4" target="_blank"><img src="https://github.com/IvBanzaga/Android_Media_Alumno/raw/master/img/captura.png" width="50%"/></a>                        |
+| [PASEANDO ENTRE ACTIVITYS](https://github.com/IvBanzaga/DosActivity/tree/7a6546ff83eb6b33b02e7988823f5edd573d346a)                         | <a href="https://github.com/IvBanzaga/DosActivity/tree/7a6546ff83eb6b33b02e7988823f5edd573d346a" target="_blank"><img src="https://github.com/IvBanzaga/ControEditText/raw/main/img/captura.png" width="50%"/></a>                                         |
+| [SPINNER](https://github.com/IvBanzaga/ControlSpinner/tree/5b0811d65a87f79796e66b64f942a936c0b1d4ba)                                       | <a href="https://github.com/IvBanzaga/ControlSpinner/tree/5b0811d65a87f79796e66b64f942a936c0b1d4ba" target="_blank"><img src="https://github.com/IvBanzaga/ControlSpinner/raw/master/img/captura.png" width="50%"/></a>                                    |
+| [SUMA DE NUMEROS](https://github.com/IvBanzaga/SUMA/tree/02daf45b47acc81241e06b8c853fe7f2fc65ec5a)                                         | <a href="https://github.com/IvBanzaga/SUMA/tree/02daf45b47acc81241e06b8c853fe7f2fc65ec5a" target="_blank"><img src="https://github.com/IvBanzaga/SUMA/raw/master/img/captura.png" width="50%"/></a>                                                        |
